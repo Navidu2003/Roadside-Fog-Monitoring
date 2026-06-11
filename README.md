@@ -1,8 +1,6 @@
 # FogGuard: Roadside Fog Density Monitoring & Accident Prevention System
 
-<br><br>
-![](docs/image/Logo.png)
-<br><br>
+
 
 
 ## EC6020 Mini Project
