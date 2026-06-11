@@ -258,28 +258,6 @@ Roadside-Fog-Density-Monitoring-system/
 
 ---
 
-## 📱 Mobile Application
-
-The FogGuard mobile application provides a **user-friendly interface** for monitoring real-time fog conditions from remote locations.
-
-It allows users to:
-
-* View fog levels and humidity data
-* Select routes and monitor specific locations
-* Receive safety indications before and during travel
-
-The application retrieves live data from the **Firebase cloud database**, enabling users to make informed decisions and plan safer journeys.
-
-The mobile app functions as a **visualization layer**, while core processing is handled by the embedded system.
-
-### 📸 App Interface
-<br>
-<p align="center">
-  <img src="docs/image/App_1.png" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="docs/image/App_2.png" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="docs/image/App_3.png" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="docs/image/App_4.png" width="200" />
-</p>
 
 ---
 
